@@ -1,0 +1,41 @@
+.top-section {
+    background-color: #5c7464;
+    padding: 30px;
+    color: white;
+    text-align: center;
+    font-family: 'Baskerville Old Face', serif;
+}
+body {
+    margin: 0;
+    font-family: 'Baskerville Old Face', serif;
+}
+
+
+/* Estilizando os links */
+a {
+    color: white; /* Define a cor dos links como vermelha */
+    text-decoration: none; /* Remove a decoração padrão dos links */
+}
+
+/* Estilizando os links quando são visitados */
+a:visited {
+    color: white; /* Mantém a cor vermelha mesmo após serem visitados */
+}
+
+ .container {
+    width: 90%; /* Define a largura da div */
+    margin: 0 auto; /* Define as margens automáticas para centralizá-la horizontalmente */
+    text-align: center; /* Centraliza o conteúdo dentro da div */
+}
+
+.info-container {
+    padding: 10px;
+    margin:4px;
+    background-color: #5c7464;
+    border-radius: 9px;
+}
+
+ img.logo {
+    max-height: 200px;
+    margin-right: 0%;
+}
